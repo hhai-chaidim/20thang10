@@ -38,6 +38,14 @@ body {
   top: 80px;
 }
 
+.shine {
+  position: fixed;
+  top: 150px;
+  color: #ffb3c6;
+  font-size: 24px;
+  animation: shine-ans 3s linear infinite;
+}
+
 .flowers {
   position: relative;
   transform: scale(0.9);
